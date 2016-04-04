@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalNote</string>
+    <string name="noteBookPrompt">点击这里开始记录你的重要事件</string>
+    <string name="noteBookSubmit">写完了</string>
+</resources>
